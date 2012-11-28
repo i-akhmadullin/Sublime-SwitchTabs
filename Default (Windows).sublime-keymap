@@ -1,0 +1,31 @@
+[
+	{ "keys": ["ctrl+1","ctrl+1"], "command": "quick_switch", "args": { "group": 1, "index": 1 } },
+	{ "keys": ["ctrl+1","ctrl+2"], "command": "quick_switch", "args": { "group": 1, "index": 2 } },
+	{ "keys": ["ctrl+1","ctrl+3"], "command": "quick_switch", "args": { "group": 1, "index": 3 } },
+	{ "keys": ["ctrl+1","ctrl+3"], "command": "quick_switch", "args": { "group": 1, "index": 4 } },
+	{ "keys": ["ctrl+1","ctrl+3"], "command": "quick_switch", "args": { "group": 1, "index": 5 } },
+	{ "keys": ["ctrl+1","ctrl+3"], "command": "quick_switch", "args": { "group": 1, "index": 6 } },
+	{ "keys": ["ctrl+1","ctrl+3"], "command": "quick_switch", "args": { "group": 1, "index": 7 } },
+	{ "keys": ["ctrl+1","ctrl+3"], "command": "quick_switch", "args": { "group": 1, "index": 8 } },
+	{ "keys": ["ctrl+1","ctrl+3"], "command": "quick_switch", "args": { "group": 1, "index": 9 } },
+
+	{ "keys": ["ctrl+2","ctrl+1"], "command": "quick_switch", "args": { "group": 2, "index": 1 } },
+	{ "keys": ["ctrl+2","ctrl+2"], "command": "quick_switch", "args": { "group": 2, "index": 2 } },
+	{ "keys": ["ctrl+2","ctrl+3"], "command": "quick_switch", "args": { "group": 2, "index": 3 } },
+	{ "keys": ["ctrl+2","ctrl+3"], "command": "quick_switch", "args": { "group": 2, "index": 4 } },
+	{ "keys": ["ctrl+2","ctrl+3"], "command": "quick_switch", "args": { "group": 2, "index": 5 } },
+	{ "keys": ["ctrl+2","ctrl+3"], "command": "quick_switch", "args": { "group": 2, "index": 6 } },
+	{ "keys": ["ctrl+2","ctrl+3"], "command": "quick_switch", "args": { "group": 2, "index": 7 } },
+	{ "keys": ["ctrl+2","ctrl+3"], "command": "quick_switch", "args": { "group": 2, "index": 8 } },
+	{ "keys": ["ctrl+2","ctrl+3"], "command": "quick_switch", "args": { "group": 2, "index": 9 } },
+
+	{ "keys": ["ctrl+3","ctrl+1"], "command": "quick_switch", "args": { "group": 3, "index": 1 } },
+	{ "keys": ["ctrl+3","ctrl+2"], "command": "quick_switch", "args": { "group": 3, "index": 2 } },
+	{ "keys": ["ctrl+3","ctrl+3"], "command": "quick_switch", "args": { "group": 3, "index": 3 } },
+	{ "keys": ["ctrl+3","ctrl+3"], "command": "quick_switch", "args": { "group": 3, "index": 4 } },
+	{ "keys": ["ctrl+3","ctrl+3"], "command": "quick_switch", "args": { "group": 3, "index": 5 } },
+	{ "keys": ["ctrl+3","ctrl+3"], "command": "quick_switch", "args": { "group": 3, "index": 6 } },
+	{ "keys": ["ctrl+3","ctrl+3"], "command": "quick_switch", "args": { "group": 3, "index": 7 } },
+	{ "keys": ["ctrl+3","ctrl+3"], "command": "quick_switch", "args": { "group": 3, "index": 8 } },
+	{ "keys": ["ctrl+3","ctrl+3"], "command": "quick_switch", "args": { "group": 3, "index": 9 } }
+]
