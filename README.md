@@ -7,12 +7,12 @@ Switch between views in different groups.
 
 ##Usage
 
-`Ctrl` + <group_index> + <file_index><br>
+`Ctrl` + \<group_index\> + \<file_index\><br>
 If you want to switch to third file in second group<br>
 you can instead of `Ctrl+2`, `Alt+3` press just `Ctrl+2,3`
 
 
 ## Examples
-`Ctrl+2,1` - switch to first view(file) in second group
-`Ctrl+1,1` - switch to first view(file) in first group
+`Ctrl+2,1` - switch to first view(file) in second group<br>
+`Ctrl+1,1` - switch to first view(file) in first group<br>
 `Ctrl+3,3` - switch to third view(file) in third group
