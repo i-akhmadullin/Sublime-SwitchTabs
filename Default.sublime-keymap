@@ -27,5 +27,25 @@
 	{ "keys": ["ctrl+3","ctrl+6"], "command": "quick_switch", "args": { "group": 3, "index": 6 } },
 	{ "keys": ["ctrl+3","ctrl+7"], "command": "quick_switch", "args": { "group": 3, "index": 7 } },
 	{ "keys": ["ctrl+3","ctrl+8"], "command": "quick_switch", "args": { "group": 3, "index": 8 } },
-	{ "keys": ["ctrl+3","ctrl+9"], "command": "quick_switch", "args": { "group": 3, "index": 9 } }
+	{ "keys": ["ctrl+3","ctrl+9"], "command": "quick_switch", "args": { "group": 3, "index": 9 } },
+
+	{ "keys": ["ctrl+4","ctrl+1"], "command": "quick_switch", "args": { "group": 4, "index": 1 } },
+	{ "keys": ["ctrl+4","ctrl+2"], "command": "quick_switch", "args": { "group": 4, "index": 2 } },
+	{ "keys": ["ctrl+4","ctrl+3"], "command": "quick_switch", "args": { "group": 4, "index": 3 } },
+	{ "keys": ["ctrl+4","ctrl+4"], "command": "quick_switch", "args": { "group": 4, "index": 4 } },
+	{ "keys": ["ctrl+4","ctrl+5"], "command": "quick_switch", "args": { "group": 4, "index": 5 } },
+	{ "keys": ["ctrl+4","ctrl+6"], "command": "quick_switch", "args": { "group": 4, "index": 6 } },
+	{ "keys": ["ctrl+4","ctrl+7"], "command": "quick_switch", "args": { "group": 4, "index": 7 } },
+	{ "keys": ["ctrl+4","ctrl+8"], "command": "quick_switch", "args": { "group": 4, "index": 8 } },
+	{ "keys": ["ctrl+4","ctrl+9"], "command": "quick_switch", "args": { "group": 4, "index": 9 } },
+
+	{ "keys": ["ctrl+5","ctrl+1"], "command": "quick_switch", "args": { "group": 5, "index": 1 } },
+	{ "keys": ["ctrl+5","ctrl+2"], "command": "quick_switch", "args": { "group": 5, "index": 2 } },
+	{ "keys": ["ctrl+5","ctrl+3"], "command": "quick_switch", "args": { "group": 5, "index": 3 } },
+	{ "keys": ["ctrl+5","ctrl+4"], "command": "quick_switch", "args": { "group": 5, "index": 4 } },
+	{ "keys": ["ctrl+5","ctrl+5"], "command": "quick_switch", "args": { "group": 5, "index": 5 } },
+	{ "keys": ["ctrl+5","ctrl+6"], "command": "quick_switch", "args": { "group": 5, "index": 6 } },
+	{ "keys": ["ctrl+5","ctrl+7"], "command": "quick_switch", "args": { "group": 5, "index": 7 } },
+	{ "keys": ["ctrl+5","ctrl+8"], "command": "quick_switch", "args": { "group": 5, "index": 8 } },
+	{ "keys": ["ctrl+5","ctrl+9"], "command": "quick_switch", "args": { "group": 5, "index": 9 } }
 ]
